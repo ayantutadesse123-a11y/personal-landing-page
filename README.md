@@ -9,7 +9,7 @@ This is my first HTML and CSS landing page project.
 
 ## Screenshot
 
-![Project Screenshot](screenshot(21).png)
+![Project Screenshot](screenshot(22).png)
 
 ## What I Learned
 
